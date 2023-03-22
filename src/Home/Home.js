@@ -3,12 +3,9 @@ import {Menu} from '../Menu/Menu'
 import { AcercaDe } from '../AcercaDe/AcercaDe'
 import { Servicios } from '../Servicios/Servicios'
 
-export function Home(){
+export function Pepe(){
     return(
         <>
-            <header>
-                <Menu></Menu>
-            </header>
             <section>
                 <div class="banner">
                     <h1>Bienvenido...</h1>
