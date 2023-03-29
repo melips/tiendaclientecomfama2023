@@ -2,7 +2,7 @@ import './Home.css'
 import { AcercaDe } from '../AcercaDe/AcercaDe'
 import { Servicios } from '../Servicios/Servicios'
 import { Link } from "react-router-dom"
-
+import { Footer } from '../Footer/Footer'
 export function Pepe(){
     return(
         <>
@@ -16,6 +16,7 @@ export function Pepe(){
             <AcercaDe></AcercaDe>
             <br></br>
             <Servicios></Servicios>
+            <Footer></Footer>
         </>
     )
 }

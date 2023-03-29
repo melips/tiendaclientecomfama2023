@@ -23,7 +23,7 @@ export function Servicios(){
                 </div>
             </section>
             <section>
-
+                <br></br>
                 <div class="container my-5">
                     <div class="row justify-content-center">
                         <div class="col-4">
@@ -46,6 +46,19 @@ export function Servicios(){
                     </div>
                 </div>
 
+            </section>
+            <section class="banner2">
+               
+            </section>
+            <br></br>
+            <br></br>
+            <br></br>
+            <section class="container my-5">
+                <div class="row justify-content-center">
+                    <div class="col-5">
+                        <img src="https://firebasestorage.googleapis.com/v0/b/tiendadonchucho-2c4fb.appspot.com/o/logogreen.webp?alt=media&token=e1f02b66-2b3c-4a84-982e-92a939324058" alt="foto" class="img-fluid mx-auto d-block"/>
+                    </div>
+                </div>
             </section>
         </>
 
